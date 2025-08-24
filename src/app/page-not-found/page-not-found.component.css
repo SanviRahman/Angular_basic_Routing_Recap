@@ -1,0 +1,16 @@
+a {
+  text-decoration: none;
+  color: white;
+  font-size: 18px;
+  font-weight: 500;
+  padding: 8px 15px;
+  border-radius: 6px;
+  transition: all 0.3s ease;
+  background: #4a90e2;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+a:hover {
+  background: #357ABD;
+}
